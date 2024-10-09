@@ -72,7 +72,7 @@
     <PackageReference Include="System.DirectoryServices" Version="8.0.0" />
     <PackageReference Include="System.Management" Version="8.0.0" />
     <PackageReference Include="JetBrains.Annotations" Version="2023.2.0" />
-    <PackageReference Include="System.Runtime.Caching" Version="8.0.0" />
+    <PackageReference Include="System.Runtime.Caching" Version="8.0.1" />
   </ItemGroup>
 
   <Import Sdk="Microsoft.NET.Sdk" Project="Sdk.targets" />
